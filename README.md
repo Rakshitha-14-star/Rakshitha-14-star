@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a computer science student <br>enthusiastic in coding
+I am a computer science student <br>enthusiastic in coding <br> currently learning python 
 
 
 ## 🌐 Socials:
